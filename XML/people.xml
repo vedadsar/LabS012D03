@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<people>
+ <person name= "Benjamin" surname="Talic">
+ <child name= "Bitcamp" surname="Nesto" />
+</person>
+ <person name= "Emir" surname="Imamovic">
+ <child name= "Hikmet" surname="Durgutovic" />
+ <child name= "Saban" surname="Saulic" />
+</person>
+ <person name= "Vedad" surname="Zornic">
+ <child name= "Junior Vedad" surname="Zornic" />
+ <child name= "Emina" surname="Muratovic" />
+</person>
+ <person name= "Gordan" surname="Sajevic">
+</person>
+ <person name= "Mustafa" surname="Ademovic">
+</person>
+</people>
